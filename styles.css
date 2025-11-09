@@ -5,11 +5,11 @@
 }
 
 p {
-    color: #d4af37
+    color: #f69e7e
 }
 
 li {
-    color: #f79772;
+    color: #e87c52;
     /* gold */
 }
 
@@ -24,21 +24,24 @@ header {
 
 .intro {
     max-width: 500px;
-    text-align: left;
+    text-align: center;
+    font-size: 1.5rem;
 }
 
-.about-us h2 {
-    font-size: 2rem;
+.about-us {
+    font-size: 1.5rem;
     text-align: center;
 }
 
-.Products h2 {
-    font-size: 2rem;
+.Products {
+    font-size: 1.5rem;
     text-align: center;
 }
 
-.Locations h2 {
-    font-size: 2rem;
+ul {list-style-type: none;}
+
+.Locations {
+    font-size: 1.5rem;
     text-align: center;
 }
 
